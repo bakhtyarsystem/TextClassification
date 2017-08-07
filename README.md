@@ -6,29 +6,37 @@ Dataset: 20_newsgroup
 ***************************************************************************************
 This data set is a collection of 20,000 messages, collected from 20 different netnews newsgroups. One thousand messages from each of the twenty newsgroups were chosen at random and partitioned by newsgroup name. The list of newsgroups from which the messages were chose is as follows:
 
-alt.atheism
-talk.politics.guns
-talk.politics.mideast
-talk.politics.misc
-talk.religion.misc
-soc.religion.christian
+1- alt.atheism
+2- talk.politics.guns
+3- talk.politics.mideast
+4- talk.politics.misc
+5- talk.religion.misc
+6- soc.religion.christian
+7- comp.sys.ibm.pc.hardware
+8- comp.graphics
+9- comp.os.ms-windows.misc
 
-comp.sys.ibm.pc.hardware
-comp.graphics
-comp.os.ms-windows.misc
-comp.sys.mac.hardware
-comp.windows.x
+10- comp.sys.mac.hardware
 
-rec.autos
-rec.motorcycles
-rec.sport.baseball
-rec.sport.hockey
+11- comp.windows.x
 
-sci.crypt
-sci.electronics
-sci.space
-sci.med
+12- rec.autos
 
-misc.forsale
+13- rec.motorcycles
+
+14- rec.sport.baseball
+
+15- rec.sport.hockey
+
+16- sci.crypt
+
+17- sci.electronics
+
+18- sci.space
+
+19- sci.med
+
+20- misc.forsale
+
 This dataset was assembled by Ken Lang.
 *********************************************************************************************
