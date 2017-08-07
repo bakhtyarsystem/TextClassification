@@ -1,2 +1,2 @@
 # TextClassification
-Text Classification by Nlp and machine learning
+Text Classification by NLP and Machine Learning
